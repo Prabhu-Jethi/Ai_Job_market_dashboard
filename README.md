@@ -4,7 +4,9 @@ This project aims to provide interactive visualizations and insights into the AI
 
 ### Features
 > Interactive Visualizations: Explore trends in AI job postings over time, regional hotspots, and skill requirements.
+
 > Data Analysis: Utilizes Excel for initial data preprocessing and Tableau for creating dynamic visualizations.
+
 > Insightful Dashboards: Provides actionable insights for job seekers, employers, and policymakers interested in the AI job market.
 
 ### Project Structure
