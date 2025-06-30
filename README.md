@@ -18,7 +18,7 @@ This project aims to provide interactive visualizations and insights into the AI
 To explore the AI Job Market Insights Dashboard:
 
 ## Clone the repository:
-git clone https://github.com/Prabhu-Jethi/Ai_Job_market_dashboard.git
+git clone https://github.com/Prabhu-Jethi/Ai_Job_market_report.git
 
 
 
